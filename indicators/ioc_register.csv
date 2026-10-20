@@ -1,0 +1,7 @@
+Indicator,Value,Evidence,Confidence,Assessment
+IPv4,188.190.10.10,"Packets 7, 9, 8786",High,"Main remote endpoint; role inferred from context"
+TCP Port,55123,"Main TCP conversation",High,"Observed port; not inherently malicious"
+HTTP SOAP Action,Endpoint/CheckConnect,"Packet 7",High,"Observed application check-in"
+HTTP SOAP Action,Endpoint/GetUpdates,"Packet 8786",High,"Observed host information request"
+Hostname,api.ip.sb,"Packets 21-22 and TLS SNI",High,"Contacted; maliciousness unconfirmed"
+IPv4,104.26.13.31,"DNS response and TLS conversation",High,"Contacted; shared Cloudflare address; maliciousness unconfirmed"
