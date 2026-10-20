@@ -71,9 +71,9 @@ Compare findings against the IOC register and saved screenshots.
 
 7. RELATED PROJECT FILES
 ------------------------
-Final report: report/network-threat-hunting-report.pdf
-IOC data: indicators/ioc_register.csv
-Analysis workbook: analysis/threat-hunting-workbook.xlsx
+Final report: report/Network Threat Hunting and Incident Investigation.pdf
+IOC data: supporting files/ioc_register.csv
+Analysis workbook: supporting files/threat-hunting-workbook.xlsx
 Evidence: evidence/
 
 The original PCAP is not included in this repository.
