@@ -43,11 +43,11 @@ These observations are based on the supplied training capture. They do not indep
 
 ## Dataset
 
-The analysis uses the public training capture: `2024-10-23-Redline-Stealer-infection-traffic.pcap`
+**Dataset source:** https://malware-traffic-analysis.net/2024/10/23/index.html
 
-**Original dataset source:** [Insert the original public dataset URL here]
+**PCAP file:** `2024-10-23-Redline-Stealer-infection-traffic.pcap`
 
-The PCAP and its ZIP archive are intentionally not included in this repository.
+The original PCAP and ZIP archive are not included in this repository; please obtain the dataset from the source page above.
 
 ## Evidence Integrity
 
