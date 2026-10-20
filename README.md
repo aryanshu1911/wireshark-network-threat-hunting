@@ -38,8 +38,8 @@ These observations are based on the supplied training capture. They do not indep
 
 - `report/` — Final investigation report in PDF format.
 - `evidence/` — Selected Wireshark evidence screenshots.
-- `indicators/` — IOC register in CSV format.
-- `detection/` — Wireshark display filters and defensive detection rules.
+- `supporting files/` — Investigation notes, IOC register (CSV), and the analysis workbook (XLSX), which contains the IOC Register, Detection Rules, and Wireshark Filters worksheets.
+- `README.md` — Project overview, dataset source, key findings, and evidence integrity information.
 
 ## Dataset
 
